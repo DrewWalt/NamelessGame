@@ -207,7 +207,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1553855933
+--- !u!1001 &1757996613
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -260,7 +260,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8443560597364396866, guid: 439be800154774d48aa57570757c1127, type: 3}
       propertyPath: m_Name
-      value: Maeve_waling
+      value: Maeve_walking
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 439be800154774d48aa57570757c1127, type: 3}

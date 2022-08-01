@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8443560597364396870}
   - component: {fileID: 8443560597364396871}
   m_Layer: 0
-  m_Name: Maeve_waling
+  m_Name: Maeve_walking
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
